@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BacaTulisGaluh</string>
+    <string name="judul">Memoriable</string>
+    <string name="input1">Isikan nama file</string>
+    <string name="input2">Isikan memo di sini</string>
+    <string name="tls1">Tulis</string>
+    <string name="baca1">Baca memo</string>
+    <string name="hapus1">Hapus Memo</string>
+    <string name="ctt">Memorial</string>
+    <string name="judulapk">Memories</string>
+    <string name="namafile">Nama File</string>
+    <string name="isidata">Isikan catatan di sini</string>
+    <string name="tbmulai">Mulai</string>
+    <string name="btnbaca">Baca</string>
+    <string name="btnhapus">Hapus</string>
+    <string name="btnsimpan">Simpan</string>
+</resources>
